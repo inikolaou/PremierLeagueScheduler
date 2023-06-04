@@ -7,8 +7,8 @@ name = "pypi"
 pulp = "*"
 pandas = "*"
 ipykernel = "*"
+openpyxl = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
